@@ -130,6 +130,7 @@ def pipeline_report_data(sample_data):
         "Running": "Running",
         "initialized": "init.",
         "Failed": "Fail",
+        "Failure": "Fail",
         "Requirements not met": "Req.",
         "queued to run": "queue",
     }
