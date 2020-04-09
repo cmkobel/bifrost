@@ -1,4 +1,4 @@
-/* 1 */
+
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c0a"),
     "organism" : "Clostridioides difficile",
@@ -9,7 +9,6 @@
     "mlst_species" : "Clostridium_difficile/ref_db"
 }
 
-/* 2 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c16"),
     "organism" : "Klebsiella oxytoca",
@@ -20,7 +19,6 @@
     "mlst_species" : "Klebsiella_oxytoca/ref_db"
 }
 
-/* 3 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c1e"),
     "organism" : "Listeria monocytogenes",
@@ -31,7 +29,6 @@
     "mlst_species" : "Listeria_monocytogenes/ref_db"
 }
 
-/* 4 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c22"),
     "organism" : "Neisseria meningitidis",
@@ -42,7 +39,6 @@
     "mlst_species" : "Neisseria_spp_/ref_db"
 }
 
-/* 5 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c20"),
     "organism" : "Neisseria gonorrhoeae",
@@ -53,7 +49,6 @@
     "mlst_species" : "Neisseria_spp_/ref_db"
 }
 
-/* 6 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c26"),
     "organism" : "Salmonella enterica",
@@ -65,7 +60,6 @@
     "color" : "#8dd3c7"
 }
 
-/* 7 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c24"),
     "organism" : "Pseudomonas aeruginosa",
@@ -77,7 +71,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 8 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c2a"),
     "organism" : "Staphylococcus capitis",
@@ -88,7 +81,6 @@
     "color" : "#c5c516"
 }
 
-/* 9 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c28"),
     "organism" : "Staphylococcus aureus",
@@ -100,7 +92,6 @@
     "color" : "#c5c516"
 }
 
-/* 10 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c2e"),
     "organism" : "Staphylococcus pseudintermedius",
@@ -112,7 +103,6 @@
     "color" : "#c5c516"
 }
 
-/* 11 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c30"),
     "organism" : "Staphylococcus sciuri",
@@ -123,7 +113,6 @@
     "color" : "#c5c516"
 }
 
-/* 12 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c0e"),
     "organism" : "Enterococcus faecalis",
@@ -134,7 +123,6 @@
     "mlst_species" : "Enterococcus_faecalis/ref_db"
 }
 
-/* 13 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c34"),
     "organism" : "Staphylococcus xylosus",
@@ -145,7 +133,6 @@
     "color" : "#c5c516"
 }
 
-/* 14 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c36"),
     "organism" : "Streptococcus agalactiae",
@@ -157,7 +144,6 @@
     "color" : "#ccebc5"
 }
 
-/* 15 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c38"),
     "organism" : "Streptococcus pneumoniae",
@@ -169,7 +155,6 @@
     "color" : "#ccebc5"
 }
 
-/* 16 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c3a"),
     "organism" : "Streptococcus pseudopneumoniae",
@@ -181,7 +166,6 @@
     "color" : "#ccebc5"
 }
 
-/* 17 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c3e"),
     "organism" : "Yersinia aleksiciae",
@@ -192,7 +176,6 @@
     "color" : "#fdb462"
 }
 
-/* 18 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c08"),
     "organism" : "Citrobacter freundii",
@@ -203,7 +186,6 @@
     "mlst_species" : "Citrobacter_freundii/ref_db"
 }
 
-/* 19 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c40"),
     "organism" : "Yersinia enterocolitica",
@@ -215,7 +197,6 @@
     "color" : "#fdb462"
 }
 
-/* 20 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c2c"),
     "organism" : "Staphylococcus epidermidis",
@@ -227,7 +208,6 @@
     "color" : "#c5c516"
 }
 
-/* 21 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c1c"),
     "organism" : "Legionella pneumophila",
@@ -237,7 +217,6 @@
     "max_length" : 3670000
 }
 
-/* 22 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c06"),
     "organism" : "Campylobacter jejuni",
@@ -248,7 +227,6 @@
     "mlst_species" : "Campylobacter_jejuni/ref_db"
 }
 
-/* 23 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c3c"),
     "organism" : "Streptococcus pyogenes",
@@ -260,7 +238,6 @@
     "color" : "#ccebc5"
 }
 
-/* 24 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c0c"),
     "organism" : "Cronobacter sakazakii",
@@ -271,7 +248,6 @@
     "mlst_species" : "Cronobacter_spp_/ref_db"
 }
 
-/* 25 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c12"),
     "organism" : "Escherichia coli",
@@ -283,7 +259,6 @@
     "color" : "#fb8072"
 }
 
-/* 26 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c04"),
     "organism" : "Campylobacter coli",
@@ -293,7 +268,6 @@
     "max_length" : 1890000
 }
 
-/* 27 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c32"),
     "organism" : "Staphylococcus simulans",
@@ -304,7 +278,6 @@
     "color" : "#c5c516"
 }
 
-/* 28 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c00"),
     "organism" : "Acinetobacter baumannii",
@@ -315,7 +288,6 @@
     "mlst_species" : "Acinetobacter_baumannii_1/ref_db"
 }
 
-/* 29 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c18"),
     "organism" : "Klebsiella pneumoniae",
@@ -326,7 +298,6 @@
     "mlst_species" : "Klebsiella_pneumoniae/ref_db"
 }
 
-/* 30 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c14"),
     "organism" : "Haemophilus influenzae",
@@ -337,7 +308,6 @@
     "mlst_species" : "Haemophilus_influenzae/ref_db"
 }
 
-/* 31 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c10"),
     "organism" : "Enterococcus faecium",
@@ -348,7 +318,6 @@
     "mlst_species" : "Enterococcus_faecium/ref_db"
 }
 
-/* 32 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c02"),
     "organism" : "Bordetella pertussis",
@@ -358,7 +327,6 @@
     "max_length" : 3840000
 }
 
-/* 33 */
 {
     "_id" : ObjectId("5c335a13fbd5c404eb4a8c1a"),
     "organism" : "Klebsiella variicola",
@@ -368,7 +336,6 @@
     "max_length" : 6050000
 }
 
-/* 34 */
 {
     "_id" : ObjectId("5c335a14fbd5c404eb4a8c42"),
     "organism" : "default",
@@ -378,7 +345,6 @@
     "group" : ""
 }
 
-/* 35 */
 {
     "_id" : ObjectId("5c406d2efbd5c404eb55eba8"),
     "organism" : "Clostridium perfringens",
@@ -389,7 +355,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 36 */
 {
     "_id" : ObjectId("5c4706bbfbd5c404eb609deb"),
     "organism" : "Enterobacter cloacae",
@@ -400,7 +365,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 37 */
 {
     "_id" : ObjectId("5c4706bbfbd5c404eb609ded"),
     "organism" : "Staphylococcus lugdunensis",
@@ -411,7 +375,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 38 */
 {
     "_id" : ObjectId("5c4706bbfbd5c404eb609df2"),
     "organism" : "Clostridium butyricum",
@@ -422,7 +385,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 39 */
 {
     "_id" : ObjectId("5c4706bbfbd5c404eb609df5"),
     "organism" : "Streptococcus uberis",
@@ -433,7 +395,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 40 */
 {
     "_id" : ObjectId("5c4706bbfbd5c404eb609df7"),
     "organism" : "Vibrio vulnificus",
@@ -444,7 +405,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 41 */
 {
     "_id" : ObjectId("5c4706bbfbd5c404eb609df9"),
     "organism" : "Bacillus cereus",
@@ -455,7 +415,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 42 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609dfb"),
     "organism" : "Shigella sonnei",
@@ -466,7 +425,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 43 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609dfd"),
     "organism" : "Vibrio cholerae",
@@ -477,7 +435,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 44 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609dff"),
     "organism" : "Acinetobacter pittii",
@@ -488,7 +445,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 45 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609e01"),
     "organism" : "Arcanobacterium phocae",
@@ -499,7 +455,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 46 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609e03"),
     "organism" : "Providencia stuartii",
@@ -510,7 +465,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 47 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609e05"),
     "organism" : "Streptococcus equi",
@@ -521,7 +475,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 48 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609e0f"),
     "organism" : "Citrobacter farmeri",
@@ -532,7 +485,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 49 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609e11"),
     "organism" : "Clostridium botulinum",
@@ -543,7 +495,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 50 */
 {
     "_id" : ObjectId("5c4706bcfbd5c404eb609e13"),
     "organism" : "Corynebacterium diphtheriae",
@@ -554,7 +505,6 @@
     "metrics_based_on" : "manual entry"
 }
 
-/* 51 */
 {
     "_id" : ObjectId("5c4ae4e9fbd5c404eb7a7e2e"),
     "organism" : "Actinobacillus pleuropneumoniae",
@@ -564,7 +514,6 @@
     "max_length" : 2300000
 }
 
-/* 52 */
 {
     "_id" : ObjectId("5c6d4cbeb903d3f5befe7dd8"),
     "organism" : "Staphylococcus hyicus",
@@ -575,7 +524,6 @@
     "metrics_based_on" : "manual_entry"
 }
 
-/* 53 */
 {
     "_id" : ObjectId("5c6d4cbeb903d3f5befe7dd9"),
     "organism" : "Staphylococcus simulans",
@@ -586,7 +534,6 @@
     "metrics_based_on" : "manual_entry"
 }
 
-/* 54 */
 {
     "_id" : ObjectId("5c6d4cbeb903d3f5befe7dda"),
     "organism" : "Staphylococcus chromogenes",
@@ -597,7 +544,6 @@
     "metrics_based_on" : "manual_entry"
 }
 
-/* 55 */
 {
     "_id" : ObjectId("5c6d4cbeb903d3f5befe7ddb"),
     "organism" : "Staphylococcus vitulinus",
@@ -608,7 +554,6 @@
     "metrics_based_on" : "manual_entry"
 }
 
-/* 56 */
 {
     "_id" : ObjectId("5c6d4cbeb903d3f5befe7ddc"),
     "organism" : "Proteus mirabilis",
@@ -619,7 +564,6 @@
     "metrics_based_on" : "manual_entry"
 }
 
-/* 57 */
 {
     "_id" : ObjectId("5c6d4cbeb903d3f5befe7ddd"),
     "organism" : "Staphylococcus lentus",
@@ -630,7 +574,6 @@
     "metrics_based_on" : "manual_entry"
 }
 
-/* 58 */
 {
     "_id" : ObjectId("5c98d840df2411624d671062"),
     "organism" : "Francisella tularensis",
