@@ -26,6 +26,7 @@ dependencies:
   - xlrd
   - minimap2
   - pymongo
+  - pip # Warning from `conda env create` in install.sh
   - dash
   - dash-core-components
   - samtools
